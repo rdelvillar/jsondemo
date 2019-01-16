@@ -1,7 +1,8 @@
 {
   "categories": [
     {
-      "name": "People and Characters",
+      "id": 1,
+      "name": "People-and-Characters",
       "image": "",
       "answers": [
         "Audrey Hepburn",
@@ -67,6 +68,7 @@
       ]
     },
     {
+      "id": 2,
       "name": "Movies",
       "image": "",
       "answers": [
