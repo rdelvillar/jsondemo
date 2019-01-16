@@ -2,7 +2,7 @@
   "categories": [
     {
       "name": "People and Characters",
-	  "image": ""
+      "image": "",
       "answers": [
         "Audrey Hepburn",
         "Alice (in Wonderland)",
@@ -68,7 +68,7 @@
     },
     {
       "name": "Movies",
-      "image": ""
+      "image": "",
       "answers": [
         "Shrek",
         "Alice in Wonderland",
@@ -119,7 +119,7 @@
         "101 Dalmatians",
         "Big",
         "Star Wars",
-        "Bill and Ted\'s Excellent Adventure",
+        "Bill and Ted's Excellent Adventure",
         "James Bond",
         "The Little Mermaid",
         "A Bug’s Life",
