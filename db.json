@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "People-and-Characters",
-      "image": "",
+      "image": "https://via.placeholder.com/150x150.jpg?text=People",
       "answers": [
         "Audrey Hepburn",
         "Alice (in Wonderland)",
@@ -70,7 +70,7 @@
     {
       "id": 2,
       "name": "Movies",
-      "image": "",
+      "image": "https://via.placeholder.com/150x150.jpg?text=Movies",
       "answers": [
         "Shrek",
         "Alice in Wonderland",
